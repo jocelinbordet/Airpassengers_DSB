@@ -1,7 +1,7 @@
 # Description of the Airplanes prediction challenge
 
 This project was carried out during the "Python for Data Science" course of the X-HEC Data Science for Business Master of Science.
-I worked with [Jocelin Bordet](https://github.com/jocelinbordet) on the project.
+I worked with [Louis Bertolotti](https://github.com/louistransfer) on the project.
 
 The problem consisted in predicting the number of passengers between two American cities
 (i.e. on domestic flights) at certain dates between 2011 and 2013. Hence this problem was a
